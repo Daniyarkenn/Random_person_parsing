@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Kelya",
+                "last": "Leclerc"
+            },
+            "location": {
+                "street": {
+                    "number": 3340,
+                    "name": "Rue Dumenge"
+                },
+                "city": "Paris",
+                "state": "Finistère",
+                "country": "France",
+                "postcode": 24795,
+                "coordinates": {
+                    "latitude": "-13.5185",
+                    "longitude": "134.9356"
+                },
+                "timezone": {
+                    "offset": "-11:00",
+                    "description": "Midway Island, Samoa"
+                }
+            },
+            "email": "kelya.leclerc@example.com",
+            "login": {
+                "uuid": "78d05da4-2546-4ee5-818f-b236ee411f1b",
+                "username": "whitepanda241",
+                "password": "kathy",
+                "salt": "vrz55tse",
+                "md5": "1302e517fde9c8f09ef6e1d22e3c265d",
+                "sha1": "71a65544ecef38180f65d1a9b86d63d1ff7c66dd",
+                "sha256": "58b80baf617a73cf31193fc1e08dfe7aad56c8d4cd9f5b20a48738b744d07e1c"
+            },
+            "dob": {
+                "date": "1957-03-01T09:45:57.939Z",
+                "age": 66
+            },
+            "registered": {
+                "date": "2009-12-06T00:48:29.066Z",
+                "age": 13
+            },
+            "phone": "05-31-19-17-54",
+            "cell": "06-72-37-99-49",
+            "id": {
+                "name": "INSEE",
+                "value": "2570277159385 90"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/85.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+            },
+            "nat": "FR"
+        }
+    ],
+    "info": {
+        "seed": "ed209de53a4ecd29",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
